@@ -7,4 +7,5 @@ TO Run this:
 1.Simply download the Zip file
 2. Open the Index file in Chrome 
 
+Feel free to Contribute in the project
 Enjoy!!
